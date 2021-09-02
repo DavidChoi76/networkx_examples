@@ -11,3 +11,4 @@ libpysal
 contextily
 geopandas
 osmnx
+momepy
