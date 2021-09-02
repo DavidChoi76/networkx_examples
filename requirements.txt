@@ -10,3 +10,4 @@ jupytext
 libpysal
 contextily
 geopandas
+osmnx
