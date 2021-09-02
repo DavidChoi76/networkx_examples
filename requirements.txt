@@ -9,3 +9,4 @@ pydata-sphinx-theme
 jupytext
 libpysal
 contextily
+geopandas
